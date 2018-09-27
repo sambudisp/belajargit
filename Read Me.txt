@@ -1,0 +1,11 @@
+Sesi 3 : koneksi git (lagi), array
+
+git init
+git config --global user.name "username gitnya"
+git config --global user.email "email akun gitnya"
+git remote add origin https://link-gitnya
+git commit -m "pesan commitnya"
+(disini akan muncul halaman login)
+
+
+
