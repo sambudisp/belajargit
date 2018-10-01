@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Koneksi GIT.iml" filepath="$PROJECT_DIR$/Koneksi GIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinDanGit.iml" filepath="$PROJECT_DIR$/KotlinDanGit.iml" />
     </modules>
   </component>
 </project>

@@ -4,8 +4,13 @@ git init
 git config --global user.name "username gitnya"
 git config --global user.email "email akun gitnya"
 git remote add origin https://link-gitnya
+
+git add .
 git commit -m "pesan commitnya"
-(disini akan muncul halaman login)
+git push -u origin master
+
+(akan muncul halaman login kalau misal belum login)
 
 
 
+Sesi 4 : Collection

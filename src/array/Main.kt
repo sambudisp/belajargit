@@ -1,9 +1,11 @@
+package array
+
 import java.util.*
 
 fun main(args: Array<String>){
     println("Textnya")
 
-    val contoharray = contohArray ()
+    val contoharray = contohArray()
     val kosongan = contoharray.kosongan
 
     println("Data Array nya : " + Arrays.toString(kosongan)) //menampilkan data array
